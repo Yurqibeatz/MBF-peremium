@@ -8,8 +8,7 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ 
-
+$ git clone https://github.com/Yurqibeatz/premium
 
 
 $ cd premium  
